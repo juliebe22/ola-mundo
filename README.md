@@ -11,10 +11,10 @@ Professor: Anderson Soares
 
 ✉️contato: juliabborgesc@gmail.com 
 
-## 👍Gostos:
+### 👍Gostos:
 Sitcoms e animes, Taylor Swift, escrever músicas, todos os tipos de expressão artística, de viver novas experiências e aprender coisas novas. 💕😊
 
-## 👎Não gosto: 
+### 👎Não gosto: 
 injustiças, sapos e ficar sozinha. 😖😟
 
 ## 🤓Projeto do curso de extensão de Git e Github.  
