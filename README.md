@@ -24,6 +24,6 @@ injustiças, sapos e ficar sozinha. 😖😟
 ✅ Iniciação de repositórios;
 
 ### 🔨 Ferramentas ultilizadas: 
-✅ Git  
-✅ Github   
+✅ Git;    
+✅ Github;     
 ✅ VS Code.    
