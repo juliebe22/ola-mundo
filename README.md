@@ -19,8 +19,8 @@ injustiças, sapos e ficar sozinha. 😖😟
 
 ## 🤓Projeto do curso de extensão de Git e Github.  
 ### 🖥️ O que eu aprendi no curso:  
-✅ Configuração e fundamentos do Git;
-✅ Trabalho colaborativo no GitHub;
+✅ Configuração e fundamentos do Git;  
+✅ Trabalho colaborativo no GitHub;  
 ✅ Iniciação de repositórios;
 
 ### 🔨 Ferramentas ultilizadas: 
