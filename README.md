@@ -10,3 +10,7 @@ Júlia Beatriz Borges
 instagram: juuhstme
 
 contato: juliabborgesc@gmail.com 
+
+Gostos: Anime, Taylor Swift, escrever músicas, todos os tipos de expressão artística, de viver novas experiências e aprender coisas novas. 💕😊
+
+Não gosto: injustiças, sapos e ficar sozinha. 😖😟
