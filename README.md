@@ -1,4 +1,4 @@
-# ptojeto-ola-mundo
+# Projeto "Olá, mundo."
 ## 📚Meu primeiro projeto com versionamento Git
 
 Feito em um curso de extensão na Universidade Santo Agostinho! 
